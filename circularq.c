@@ -15,7 +15,6 @@ int main()
     {
         printf("\nPress 1 to Enqueue");
         printf("\nPress 2 to Dequeue");
-    //    printf("\nPress 3 to Display");
         printf("\nPress 0 to Exit\n");
         scanf("%d", &choice);
         switch (choice)
