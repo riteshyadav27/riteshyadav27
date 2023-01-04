@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k2n6a0c9snt2xflpt5f2gprm6tzff9w4gxaiwrsp&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshyadav27&label=Profile%20views&color=0e75b6&style=flat" alt="riteshyadav27" /> </p>
 
-- 🔭 I’m currently working on **Single Pager Website**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **...**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
